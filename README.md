@@ -38,8 +38,9 @@ Speech Output (Edge TTS)
 
 🚀 Installation
 
-git clone https://github.com/your-username/text_translator_ai.git
-cd text_translator_ai
+git clone https://github.com/leah-john/Multilingual-Translator-AI-CV-NLP-Speech.git
+cd Multilingual-Translator-AI-CV-NLP-Speech 
+
 📦 Create Virtual Environment
 python -m venv venv
 
